@@ -1,0 +1,34 @@
+#about{
+	margin-top: 50px;
+	margin-bottom: 100px;
+	margin-right: 100px;
+	margin-left: 100px;
+	padding: 5px;
+}
+
+
+.header{
+	font-family: "Montserrat";
+}
+
+.content{
+	font-family: "Crimson Text";
+}
+
+p{
+	margin-bottom: 1.5rem;
+}
+
+#resume{
+	margin: 0px 0px 0px 0px;
+	height: 32px;
+	width: 32px;
+	border: none;
+	border-radius: 0px;
+}
+
+
+
+.buffer{
+	height: 5rem;
+}
