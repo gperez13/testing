@@ -47,7 +47,7 @@ class ProjectsComponent extends Component{
 										styling & UX elements.  
 
 										<br/><br/>
-										Built Using: Javascript. D3.js. HTML5. CSS3. JSON. MongoDB. mLabm. Sessions. Express.
+										Built Using: React. Sessions. Express. Postgres.
 										</p>
 
 
