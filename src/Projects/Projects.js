@@ -26,6 +26,36 @@ class ProjectsComponent extends Component{
 					<div class="container">
 
 
+						<div class="row">
+
+							<div class="col-md-7">
+								<a href="https://react-storefront.herokuapp.com/home" rel="noopener noreferrer" target="_blank"><img class="work" src="/ManaTee.png"/></a>
+								
+							</div>
+									<div class="col-md-5">
+									
+									<h4 class="header">ManaTee</h4>
+									<br/>
+
+										<p class="content">ManaTee is a fictional online 
+										store. The purpose of this application is to construct 
+										an aesthetically more complex iteration of my React.js 
+										based projects. It will use a separate SQL database and 
+										ill work synchronously with a dashboard project utilizing 
+										hopping data. Like boxed cake, it’s allowing me to put 
+										together preconceived components while adding personal 
+										styling & UX elements.  
+
+										<br/><br/>
+										Built Using: Javascript. D3.js. HTML5. CSS3. JSON. MongoDB. mLabm. Sessions. Express.
+										</p>
+
+
+									<a href="https://github.com/gperez13/my-CRUD-politician" rel="noopener noreferrer" target="_blank"><img id="kittycat" src="/GitHubKitty.png" /></a>
+							</div>
+						</div>
+
+
 
 						<div class="row">
 
