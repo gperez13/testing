@@ -34,8 +34,8 @@ class OriginComponent extends Component{
 							more than 40 consultants about their profession. 
 							Everything from goals & aspirations to interests 
 							and hobbies seemed to point towards technology. 
-							However, I had come to know Chicago as a city of 
-							Financial and Industrial Operations.
+							However, at the time I had come to know Chicago as a 
+							city of Financial and Industrial Operations.
 
 							</p>
 
@@ -52,27 +52,34 @@ class OriginComponent extends Component{
 							went upstairs to my room and called my best friend. 
 							I told him “Phil, can I crash in your apartment for a 
 							bit? I just told my parents I had a job lined up in Austin.” 
-							 traded the coupe I was driving for a sedan, packed 
-							 all of my belongings and drove 17 hours straight to 
+							 I traded the coupe I was driving for a sedan, packed 
+							 all of my belongings, and drove 17 hours straight to 
 							 Austin only making a stop in Munster, Indiana to visit 
 							 Three Floyds on my way there. 
 
 						</p>
+
+						
+						<div class="signs">
+							<img class="sign" src="/sign1.jpg"/>
+							<img class="sign" src="/sign2.jpg"/>
+						</div>
+						
 
 
 						<p class="content">
 							Before departing for my trip, I had printed 400 copies of 
 							my resume and laminated a sign to introduce myself. The 
 							first week I arrived in Austin was spent walking up and 
-							down Congress avenue holding that sign in a 2-piece suit 
+							down Congress avenue holding the sign above in a 2-piece suit 
 							and tie. That is the equivalent of walking down Michigan 
-							Avenue or State St in downtown Chicago. The following week 
+							Avenue or State St. in downtown Chicago. The following week 
 							I was offered a job as a Member Service Analyst at 
 							The Advisory Board Company. This role was unique in the 
 							sense that it gave me an eagle’s eye view of the organization. 
 							The majority of the work was customer service ticketing, 
 							and we had a great deal of projects around metrics, 
-							implementations and analytics. I was also exposed to Physician 
+							implementations, and analytics. I was also exposed to Physician 
 							Care Variation Reduction, ICD9/10 coding, Physician wRVU 
 							management, HIPAA/CMS compliance, and other Healthcare 
 							specific topics.
@@ -93,7 +100,7 @@ class OriginComponent extends Component{
 							months, I have learned the fundamentals of Web Development, 
 							explored Docker to implement development environments, deployed 
 							relational databases, created a distributed ledger using IBM 
-							Hyperledger, and deepened my understanding of crypto tech. 
+							Hyperledger, and deepened my understanding of crypto technology. 
 
 
 						</p>
@@ -104,7 +111,7 @@ class OriginComponent extends Component{
 							the way that are instrumental to my career path. I am happy to 
 							have found something I can spend 9 hours doing without getting bored 
 							or tired and am currently putting in my 10,000 hours in just like 
-							everyone else. In summary, if you really want something, you have to 
+							everyone else. In summary, if you really want something you have to 
 							make it happen.
 
 

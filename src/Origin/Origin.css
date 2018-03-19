@@ -26,3 +26,47 @@ p{
 .buffer{
 	height: 5rem;
 }
+
+
+.signs{
+	margin-top: 4rem;
+	margin-bottom: 4rem;
+}
+
+.sign{
+	transform: rotate(90deg);
+	margin: 40px 0px 40px 0px;
+	height: 400px;
+	width: 500px;
+	border: 2px solid black;
+	border-radius: 20px;
+	opacity: 0.85
+
+}
+
+
+
+
+
+@media (min-width: 735px) {
+
+	.sign {
+		width: 35vw;
+		height: 28vw;
+		margin-left: 3vw;
+	}
+}
+
+@media (max-width: 735px) {
+
+	.sign {
+		width: 75vw;
+		height: 55vw;
+		margin: 10vh auto;
+		
+	}
+
+	#origin{
+		margin-left: 50px;
+	}
+}
