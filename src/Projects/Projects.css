@@ -77,4 +77,8 @@ img{
 		margin: 10vh auto;
 		margin-top: 0;
 	}
+
+	#projects{
+		margin-left: 50px;
+	}
 }

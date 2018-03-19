@@ -28,11 +28,40 @@ class ProjectsComponent extends Component{
 
 						<div class="row">
 
-							<div class="col-md-7">
+							<div class="col-sm-12 col-md-5">
+									<h4 class="header">Pepper Highland</h4>
+									<br/>
+
+									<p class="content">Pepper Highland is the analytics counterpart to 
+									ManaTee. It utilizes a shared database constructed with Rails to gather consumer 
+									shopping data and display various analytics. The dashboard will be constructed with
+									D3 to render the data and will eventually implement authentication for 
+									each individial user. 
+
+
+									<br/><br/>
+									Built Using: React.js. D3.js. PostgreSQL. Ruby on Rails.
+									</p>
+									<a href="https://github.com/gperez13/RxChain" rel="noopener noreferrer" target="_blank"><img id="kittycat" src="/GitHubKitty.png"/></a>
+							</div>
+
+								<div class="col-sm-0 col-md-2" style={{"float": "right"}}></div>
+
+								<div class="col-sm-12 col-md-5" style={{"float": "right"}}>
+									<a  href="https://rxchainfrontend.herokuapp.com" rel="noopener noreferrer" target="_blank"><img class="work" src="/PepperHighland.png"/></a>
+								</div>
+
+
+						</div>
+
+
+						<div class="row">
+
+							<div class="col-sm-12 col-md-7">
 								<a href="https://react-storefront.herokuapp.com/home" rel="noopener noreferrer" target="_blank"><img class="work" src="/ManaTee.png"/></a>
 								
 							</div>
-									<div class="col-md-5">
+									<div class="col-sm-12 col-md-5">
 									
 									<h4 class="header">ManaTee</h4>
 									<br/>
@@ -59,7 +88,7 @@ class ProjectsComponent extends Component{
 
 						<div class="row">
 
-							<div class="col-md-5">
+							<div class="col-sm-12 col-md-5">
 									<h4 class="header">RxChain</h4>
 									<br/>
 
@@ -83,9 +112,9 @@ class ProjectsComponent extends Component{
 									<a href="https://github.com/gperez13/RxChain" rel="noopener noreferrer" target="_blank"><img id="kittycat" src="/GitHubKitty.png"/></a>
 							</div>
 
-								<div class="col-md-2" style={{"float": "right"}}></div>
+								<div class="col-sm-0 col-md-2" style={{"float": "right"}}></div>
 
-								<div class="col-md-5" style={{"float": "right"}}>
+								<div class="col-sm-12 col-md-5" style={{"float": "right"}}>
 									<a  href="https://rxchainfrontend.herokuapp.com" rel="noopener noreferrer" target="_blank"><img class="work" src="/rxchain.png"/></a>
 								</div>
 
@@ -95,11 +124,11 @@ class ProjectsComponent extends Component{
 					
 					<div class="row">
 
-						<div class="col-md-7">
+						<div class="col-sm-12 col-md-7">
 							<a href="https://rate-your-chicago-aldermen.herokuapp.com/" rel="noopener noreferrer" target="_blank"><img class="work" src="/RateMyChicago.png"/></a>
 							
 						</div>
-							<div class="col-md-5">
+							<div class="col-sm-12 col-md-5">
 							
 							<h4 class="header">Rate My Chicago Alderman</h4>
 							<br/>
@@ -127,7 +156,7 @@ class ProjectsComponent extends Component{
 
 						<div class="row">
 
-							<div class="col-md-5">
+							<div class="col-sm-12 col-md-5">
 									<h4 class="header">BulbasaurGuac</h4>
 									<br/>
 
@@ -145,9 +174,9 @@ class ProjectsComponent extends Component{
 									<a href="https://github.com/gperez13/BulbasaurGuac" rel="noopener noreferrer" target="_blank"><img id="kittycat" src="/GitHubKitty.png"/></a>
 							</div>
 
-								<div class="col-md-2" style={{"float": "right"}}></div>
+								<div class="col-sm-0 col-md-2" style={{"float": "right"}}></div>
 
-								<div class="col-md-5" style={{"float": "right"}}>
+								<div class="col-sm-12 col-md-5" style={{"float": "right"}}>
 									<a  href="https://bulbasaurguacshooter.herokuapp.com/" rel="noopener noreferrer" target="_blank"><img class="work" src="/BulbasaurGuac.png"/></a>
 								</div>
 
@@ -161,7 +190,7 @@ class ProjectsComponent extends Component{
 						<hr/>
 						<div class="row">
 
-							<div class="col-md-7">
+							<div class="col-sm-12 col-md-7">
 			
 								<a rel="noopener noreferrer" target="_blank"><img class="work" src="/pier.png"/></a>
 			
@@ -169,7 +198,7 @@ class ProjectsComponent extends Component{
 
 
 
-							<div class="col-md-5">
+							<div class="col-sm-12 col-md-5">
 
 								<h4 class="header">LASA</h4>
 								<br/>
