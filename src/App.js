@@ -10,6 +10,7 @@ import './App.css';
 import About from './About/About.js';
 import Contact from './Contact/Contact.js';
 import Header from './Header/Header.js';
+import Origin from './Origin/Origin.js'
 import Projects from './Projects/Projects.js';
 import Skills from './Skills/Skills.js';
 import State from './State/State.js';
@@ -50,6 +51,7 @@ class App extends Component {
                 <hr/>
                 <div className="linkHover">
                   <Link to="/about"><p class="smoothScroll btn btn-default">About</p></Link>
+                  <Link to="/origin"><p class="smoothScroll btn btn-default">Origin</p></Link>
                   <Link to="/projects"><p class="smoothScroll btn btn-default">Projects</p></Link>
                   <Link to="/Skills"><p class="smoothScroll btn btn-default">Skills</p></Link>
                   <Link to="/State"><p class="smoothScroll btn btn-default">State</p></Link>
@@ -89,6 +91,17 @@ class App extends Component {
                 {match && <About {...rest} />}
             </TransitionGroup>
         )}/>
+
+        <Route
+
+            exact
+            path="/origin"
+            children={({ match, ...rest }) => (
+            <TransitionGroup component={firstChild}>
+                {match && <Origin {...rest} />}
+            </TransitionGroup>
+        )}/> 
+
 
         <Route
 

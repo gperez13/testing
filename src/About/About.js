@@ -15,21 +15,19 @@ class AboutComponent extends Component{
 		return(
 			<div>
 				<div id="about">
-						  <h3 class="header">From Chicago to Austin and Back</h3>
+						  <h3 class="header">Most people call me Gio</h3>
 	
 
 						  <br/><br/>
 
 						  <p class="content">
 					 I am a software developer with a knack for fostering 
-					 relationships between people and data. Two years ago I 
-					 moved to Austin, Texas and began working in the tech 
-					 industry. The Advisory Board Company introduced me to 
-					 what it's like to work in an enterprise setting and 
-					 gave me a behind the scenes understanding of both 
-					 software product as well as healthcare operations.  
-					 Because of my background in informatics, I can focus on 
-					 immediate needs while keeping track of the big picture. 
+					 relationships between people and data. I prefer relational
+					 databases to MongoDB and use PostgreSQL, Express.js, React.js 
+					 & Node as my stack. However, I try to have a language agnostic
+					 approach to development in order to use the best tool for the job.
+
+
 					 		</p>
 
 
@@ -44,7 +42,7 @@ class AboutComponent extends Component{
 					opportunities for the benefit of the organization as 
 					a whole. Through these soft skills I can simplify 
 					complex ideas and deliver them to the end user as 
-					readable data. </p>
+					understandable information. </p>
 
 					<p class="content">
 
