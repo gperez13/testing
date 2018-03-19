@@ -36,19 +36,18 @@ class ProjectsComponent extends Component{
 									ManaTee. It utilizes a shared database constructed with Rails to gather consumer 
 									shopping data and display various analytics. The dashboard will be constructed with
 									D3 to render the data and will eventually implement authentication for 
-									each individial user. 
+									each individial user. This application is a work in progress and has not been yet deployed.
 
 
 									<br/><br/>
-									Built Using: React.js. D3.js. PostgreSQL. Ruby on Rails.
+									Built Using: React.js. D3.js. PostgreSQL.
 									</p>
-									<a href="https://github.com/gperez13/RxChain" rel="noopener noreferrer" target="_blank"><img id="kittycat" src="/GitHubKitty.png"/></a>
 							</div>
 
 								<div class="col-sm-0 col-md-2" style={{"float": "right"}}></div>
 
 								<div class="col-sm-12 col-md-5" style={{"float": "right"}}>
-									<a  href="https://rxchainfrontend.herokuapp.com" rel="noopener noreferrer" target="_blank"><img class="work" src="/PepperHighland.png"/></a>
+									<img class="work" src="/PepperHighland.png"/>
 								</div>
 
 
